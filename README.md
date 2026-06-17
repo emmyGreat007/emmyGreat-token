@@ -64,3 +64,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+=======
+# emmyGreat-token
+EmmyGreat-token is an ERC-20 token created for my TechCrush cohort 7 asssignment. 
+>>>>>>> a8b88c180ed9919e6d08ac77c4622ba59a2940ea
